@@ -65,27 +65,25 @@ flutter run
 ## 🎨 6. UI Screenshots
 
 ### 🟪 Login Page  
-<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/expense_tracker/lib/assets/login.jpg?raw=true" width="320"/>
+<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/login.jpg?raw=true" width="320"/>
 
 ### 🟦 Signup Page  
-<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/expense_tracker/lib/assets/signup.jpg?raw=true" width="320"/>
+<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/signup.jpg?raw=true" width="320"/>
 
 ### 🟩 Dashboard Page  
-<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/expense_tracker/lib/assets/dashboard.jpg?raw=true" width="320"/>
+<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/dashboard.jpg?raw=true" width="320"/>
 
 ### 🟨 All Expenses Page  
-<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/expense_tracker/lib/assets/all_expenses.jpg?raw=true" width="320"/>
+<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/all_expenses.jpg?raw=true" width="320"/>
 
 ### 🟧 Add Expense Page  
-<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/expense_tracker/lib/assets/add_expense.jpg?raw=true" width="320"/>
+<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/add_expense.jpg?raw=true" width="320"/>
 
 ### 🟫 Edit Expense Page  
-<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/expense_tracker/lib/assets/edit_expense.jpg?raw=true" width="320"/>
+<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/edit_expense.jpg?raw=true" width="320"/>
 
 ### 🟦 Profile Page  
-<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/expense_tracker/lib/assets/profile.jpg?raw=true" width="320"/>
-
----
+<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/profile.jpg?raw=true" width="320"/>
 
 
 
