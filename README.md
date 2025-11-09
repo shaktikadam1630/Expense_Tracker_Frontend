@@ -1,5 +1,4 @@
-# 💰 Expense Tracker (Flutter Frontend)
-
+# 💰 Expense Tracker 
 ## 📱 1. Project Overview
 
 This is the **frontend** for the **Expense Tracker Application**, built using **Flutter** with **BLoC state management**.  
