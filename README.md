@@ -37,10 +37,10 @@ The app allows users to:
 
 ---
 
-## 🎨 6. UI Screenshots
+## 🎨 4. UI Screenshots
 
 ### 🟪 Login Page  
-<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/login.jpg?raw=true" width="320"/>
+<img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/expense_tracker/lib/assets/login.jpg?raw=true" width="320"/>
 
 ### 🟦 Signup Page  
 <img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/signup.jpg?raw=true" width="320"/>
@@ -60,8 +60,8 @@ The app allows users to:
 ### 🟦 Profile Page  
 <img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/profile.jpg?raw=true" width="320"/>
 
-
-## 🛠️ 4. Setup & Run Instructions
+---
+## 🛠️ 5. Setup & Run Instructions
 
 ### Follow the steps below to run the app:
 
