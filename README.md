@@ -62,6 +62,26 @@ final String baseUrl = "http://192.168.x.x:5000";
 # 4️⃣ Run the App
 flutter run
 
+# 1️⃣ Clone the repository
+git clone https://github.com/shaktikadam1630/Expense_Tracker_Frontend.git
+cd Expense_Tracker_Frontend
+
+# 2️⃣ Install dependencies
+flutter pub get
+
+# 3️⃣ Update Backend API URL
+# Open the following files:
+#   lib/data/services/auth_service.dart
+#   lib/data/services/expense_service.dart
+# Replace the baseUrl with your system IP (find it using ipconfig in CMD)
+# Example:
+final String baseUrl = "http://192.168.x.x:5000";
+
+# ⚠️ Note: Both your mobile device and PC must be connected to the same Wi-Fi network.
+
+# 4️⃣ Run the App
+flutter run
+
 ## 🎨 6. UI Screenshots
 
 ### 🟪 Login Page  
@@ -84,6 +104,10 @@ flutter run
 
 ### 🟦 Profile Page  
 <img src="https://github.com/shaktikadam1630/Expense_Tracker_Frontend/blob/main/lib/assets/profile.jpg?raw=true" width="320"/>
+
+
+
+
 
 
 
